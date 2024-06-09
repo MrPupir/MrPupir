@@ -4,7 +4,7 @@
 <p align="left">
     <strong>Advanced:</strong>
     <br>
-    <a href="https://www.lua.org/" target="_blank" rel="noreferrer" style="width: 200px;">
+    <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
