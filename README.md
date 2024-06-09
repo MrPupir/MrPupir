@@ -29,6 +29,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
     <br>
+    <br>
     <strong>Basic:</strong>
     <br>
     <a href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" target="_blank" rel="noreferrer">
