@@ -2,11 +2,15 @@
 <h3 align="center">A Lua developer from Ukraine</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <strong>Advanced:</strong>
+    <strong>Strong:</strong>
     <br>
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" />
     </a>
+    <br>
+    <br>
+    <strong>Advanced:</strong>
+    <br>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     </a>
